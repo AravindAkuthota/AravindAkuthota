@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindakuthota&label=Profile%20views&color=0e75b6&style=flat" alt="aravindakuthota" /> </p>
 
-- 🔭 I’m currently learning **Competitive programming ,how to contribute to open source projects and ethical hacking**
-
-- 🌱 I’m currently learning **Ethical hacking, competitive programming ,devops**
+- 🔭 I’m currently learning **Competitive programming 
+ 
+- 🤘 how to contribute to open source projects and ethical hacking**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
