@@ -9,5 +9,5 @@
   </td>
 <table>
 <tr>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindAkuthota&count_private=true)
 
