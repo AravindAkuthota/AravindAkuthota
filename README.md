@@ -10,7 +10,6 @@
   [![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindAkuthota)](https://github.com/anuraghazra/github-readme-stats)
   
   
-  
   </td>
 <table>
 <tr>
