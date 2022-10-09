@@ -6,8 +6,13 @@
     🌱 I am currently learning **cybersecurity** and also interested in **penetration testing**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
-  </td>
+  
+  [![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindAkuthota)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  </td>
 <table>
 <tr>
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindAkuthota&count_private=true)
+
 
