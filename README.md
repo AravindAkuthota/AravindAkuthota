@@ -1,6 +1,6 @@
 ### hey there 
 <a href="https://www.instagram.com/yours_aravind//">
-  <img align="left" alt="Aravind's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="aravind akuthota" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 
 <a href="https://twitter.com/aravindstwt">
   <img align="left" alt="Aravind Akuthota | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
