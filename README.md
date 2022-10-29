@@ -1,5 +1,5 @@
 ### hey there 
-<a href="https://www.instagram.com/yoursaravind/">
+<a href="https://www.instagram.com/yours_aravind//">
   <img align="left" alt="Aravind's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 
 <a href="https://twitter.com/aravindstwt">
