@@ -1,4 +1,8 @@
-### hey there 
+[<img src="https://raw.githubusercontent.com/Aravindakuthota/Aravindakuthota/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+
+
+
 <a href="https://www.instagram.com/yours_aravind//">
   <img align="left" alt="Aravind's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 
