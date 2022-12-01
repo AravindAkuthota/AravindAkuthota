@@ -49,14 +49,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
   
   
-  ## 📈 Stats
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=AravindAkuthota    
-             akcodes&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AravindAkuthota    -akcodes&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AravindAkuthota   -akcodes&theme=tokyonight" />
-</p>
 
 
 
@@ -72,5 +65,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aravindakuthota&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
+</p>
 
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
