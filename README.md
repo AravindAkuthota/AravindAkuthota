@@ -22,9 +22,6 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
-
-## ⚡ Technologies
-
   ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -38,9 +35,9 @@
   
   
 
-hi, i'm [Aravind Akuthota ], a passionate self-taught cyber geek  and a freelance  from india. my passion for linux lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Aravind Akuthota ], a passionate self-taught cyber geek  and a freelance  from india. my passion for linux lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am  also an open-source enthusiast and maintainer. I Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/arvindakuthota/aravindakuthota/blob/master/code.gif?raw=true" width="500" height="320" />
