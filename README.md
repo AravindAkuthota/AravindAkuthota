@@ -57,9 +57,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div id="medium-blogs"></div>
 
 <script>
-const MEDIUM_USERNAME = "@aravindnotes"; // Replace with your Medium username
+const MEDIUM_USERNAME = "aravindnotes"; // Replace with your Medium username
 
-fetch(`https://medium.com/${MEDIUM_USERNAME}/latest?format=json`)
+fetch(`https://medium.com/@aravindnotes/latest?format=json`)
   .then((response) => response.text())
   .then((text) => {
     // Extract the JSON data from the response
@@ -77,7 +77,7 @@ fetch(`https://medium.com/${MEDIUM_USERNAME}/latest?format=json`)
       .map(
         (blog) => `
         <div>
-          <a href="https://medium.com/${MEDIUM_USERNAME}/${blog.uniqueSlug}" target="_blank">${blog.title}</a>
+          <a href="https://medium.com/@aravindnotes/${blog.uniqueSlug}" target="_blank">${blog.title}</a>
           <p>${new Date(blog.createdAt).toDateString()}</p>
         </div>
       `
