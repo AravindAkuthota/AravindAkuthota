@@ -54,28 +54,54 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/aravindakuthota" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
-
 <div id="medium-blogs"></div>
-<div id="hashnode-blogs"></div>
 
 <script>
-// Fetch latest blog posts from Medium
-fetch("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/"@aravindsnotes")
-  .then(response => response.json())
-  .then(data => {
-    const blogs = data.items.slice(0,4); // Get the first 4 blog posts
-    const blogHtml = blogs.map(blog => `
-      <div>
-        <a href="${blog.link}" target="_blank">${blog.title}</a>
-        <p>${blog.pubDate.slice(0,10)}</p>
-      </div>
-    `).join("");
+const MEDIUM_USERNAME = "@aravindnotes"; // Replace with your Medium username
+
+fetch(`https://medium.com/${MEDIUM_USERNAME}/latest?format=json`)
+  .then((response) => response.text())
+  .then((text) => {
+    // Extract the JSON data from the response
+    const json = text.substring(text.indexOf("{"), text.lastIndexOf("}") + 1);
+    const data = JSON.parse(json);
+
+    // Filter the data to only include posts
+    const posts = data.payload.posts.filter((post) => post.uniqueSlug !== null);
+
+    // Get the first 3 posts
+    const blogs = posts.slice(0, 3);
+
+    // Generate the HTML for the blog posts
+    const blogHtml = blogs
+      .map(
+        (blog) => `
+        <div>
+          <a href="https://medium.com/${MEDIUM_USERNAME}/${blog.uniqueSlug}" target="_blank">${blog.title}</a>
+          <p>${new Date(blog.createdAt).toDateString()}</p>
+        </div>
+      `
+      )
+      .join("");
+
+    // Add the HTML to the page
     document.getElementById("medium-blogs").innerHTML = `
       <h3>Latest Medium Posts</h3>
       ${blogHtml}
     `;
   });
+</script>
+
+<style>
+  #medium-blogs div {
+    margin-bottom: 0.5em;
+  }
+
+  #medium-blogs h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+  }
+</style>
 
 
 
@@ -83,6 +109,43 @@ fetch("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/"@ar
 
 
 
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
