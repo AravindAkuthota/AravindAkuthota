@@ -57,7 +57,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div id="medium-blogs"></div>
 
 <script>
-const MEDIUM_USERNAME = "aravindnotes"; // Replace with your Medium username
+const MEDIUM_USERNAME = "@aravindnotes"; // Replace with your Medium username
 
 fetch(`https://medium.com/@aravindnotes/latest?format=json`)
   .then((response) => response.text())
