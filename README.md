@@ -54,12 +54,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/aravindakuthota" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<div id="medium-blogs"></div>
+
+  
+  <div id="medium-blogs"></div>
 
 <script>
-const MEDIUM_USERNAME = "@aravindnotes"; // Replace with your Medium username
+const MEDIUM_USERNAME = "aravindnotes"; // Replace with your Medium username
 
-fetch(`https://medium.com/@aravindnotes/latest?format=json`)
+fetch(`https://medium.com/${aravindnotes}/latest?format=json`)
   .then((response) => response.text())
   .then((text) => {
     // Extract the JSON data from the response
@@ -69,7 +71,7 @@ fetch(`https://medium.com/@aravindnotes/latest?format=json`)
     // Filter the data to only include posts
     const posts = data.payload.posts.filter((post) => post.uniqueSlug !== null);
 
-    // Get the first 3 posts
+    // Get the latest 3 posts
     const blogs = posts.slice(0, 3);
 
     // Generate the HTML for the blog posts
@@ -77,7 +79,7 @@ fetch(`https://medium.com/@aravindnotes/latest?format=json`)
       .map(
         (blog) => `
         <div>
-          <a href="https://medium.com/@aravindnotes/${blog.uniqueSlug}" target="_blank">${blog.title}</a>
+          <a href="https://medium.com/$aravindnotes/${blog.uniqueSlug}" target="_blank">${blog.title}</a>
           <p>${new Date(blog.createdAt).toDateString()}</p>
         </div>
       `
@@ -102,14 +104,6 @@ fetch(`https://medium.com/@aravindnotes/latest?format=json`)
     margin-bottom: 0.5em;
   }
 </style>
-
-
-
-
-
-
-
-
 
 
   
