@@ -56,6 +56,37 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<div id="medium-blogs"></div>
+<div id="hashnode-blogs"></div>
+
+<script>
+// Fetch latest blog posts from Medium
+fetch("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/"@aravindsnotes")
+  .then(response => response.json())
+  .then(data => {
+    const blogs = data.items.slice(0,4); // Get the first 4 blog posts
+    const blogHtml = blogs.map(blog => `
+      <div>
+        <a href="${blog.link}" target="_blank">${blog.title}</a>
+        <p>${blog.pubDate.slice(0,10)}</p>
+      </div>
+    `).join("");
+    document.getElementById("medium-blogs").innerHTML = `
+      <h3>Latest Medium Posts</h3>
+      ${blogHtml}
+    `;
+  });
+
+
+
+
+
+
+
+
+
+
+
 
 📈 my github stats
 
