@@ -4,7 +4,7 @@
 
 
 
-<a href="https://www.instagram.com/yours_aravind//">
+<a href="(https://www.instagram.com/aravinds_ig/)">
   <img align="left" alt="Aravind's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 
 <a href="https://twitter.com/aravindstwt">
