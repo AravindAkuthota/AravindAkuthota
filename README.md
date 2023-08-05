@@ -1,67 +1,32 @@
-## Hi, I am Aravind ! Glad to see you here! 👋
+<h1 align="center">Hi 👋, I'm Aravind Akuthota</h1>
+<h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindakuthota&label=Profile%20views&color=0e75b6&style=flat" alt="aravindakuthota" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindakuthota" alt="aravindakuthota" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/aravindstwt" target="blank"><img src="https://img.shields.io/twitter/follow/aravindstwt?logo=twitter&style=for-the-badge" alt="aravindstwt" /></a> </p>
 
+- 🔭 I’m currently working on **self project**
 
-<a href="(https://www.instagram.com/aravinds_ig/)">
-  <img align="left" alt="Aravind's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+- 🌱 I’m currently learning **DSA,Cloud Computing ,prompt engineering**
 
-<a href="https://twitter.com/aravindstwt">
-  <img align="left" alt="Aravind Akuthota | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aravindakuthota/">
-  <img align="left" alt="Aravind's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- ⚡ Fun fact **DEVELOPER**
 
-![](https://visitor-badge.glitch.me/badge?page_id=aravindakuthota.aravindakuthota)
-
-<br />
-  
-  <div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
-
-  ### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-  
-  
-  
-  
-  
-  
-
-Hi, i'm [Aravind Akuthota ], a passionate self-taught cyber geek  and a freelance  from india. my passion for linux lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am  also an open-source enthusiast and maintainer. I Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/arvindakuthota/aravindakuthota/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:aravind3905@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-  
-  
-
-
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/aravindakuthota" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aravindakuthota&show_icons=true&theme=gotham" alt="AravindAkuthota" />
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aravindstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravindstwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aravindakuthota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravindakuthota/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aravindakuthota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aravindakuthota" height="30" width="40" /></a>
 </p>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/AravindAkuthota"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AravindAkuthota" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindakuthota&show_icons=true&locale=en&layout=compact" alt="aravindakuthota" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindakuthota&show_icons=true&locale=en" alt="aravindakuthota" /></p>
+
